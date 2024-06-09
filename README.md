@@ -11,12 +11,17 @@
 
 ## Features
 
-Initial Balance: The initial account balance is set to $1,000.
-Balance Display: The balance is displayed in the format $1,000.00.
-Deposit Validation: The deposit amount must be a positive number.
-Withdrawal Validation: The withdrawal amount must be less than or equal to the current balance.
-User Interface: The program presents a menu-driven interface for the user to choose the desired operation.
-Usage
+**Initial Balance**: The initial account balance is set to $1,000.
+
+**Balance Display**: The balance is displayed in the format $1,000.00.
+
+**Deposit Validation**: The deposit amount must be a positive number.
+
+**Withdrawal Validation**: The withdrawal amount must be less than or equal to the current balance.
+
+## User Interface: 
+The program presents a menu-driven interface for the user to choose the desired operation.
+## Usage
 Run the Python script.
 Follow the on-screen instructions to perform the desired banking operations.
 To exit the program, select the "Exit" option from the menu.
@@ -34,9 +39,6 @@ The program runs in a loop until the user chooses to exit.
 The user is presented with a menu of options to choose from.
 The program calls the appropriate function based on the user's choice.
 Improvements
-Add error handling for non-numeric input.
-Implement a more robust user interface, such as a graphical user interface (GUI).
-Add support for multiple accounts or user authentication.
-Implement additional banking features, such as transaction history, transfer between accounts, and interest calculations.
-Conclusion
+
+## Conclusion
 This simple Bank Program demonstrates the basic functionality of a banking application using Python. It can be used as a starting point for more complex banking systems or as an educational tool for learning Python programming.
