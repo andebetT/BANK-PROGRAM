@@ -1,13 +1,13 @@
 # BANK-PROGRAM
 ## This is a simple Python program that simulates a basic banking application. It allows users to perform the following operations:
 
-**Show Balance**:Displays the current account balance.
+1.**Show Balance**:Displays the current account balance.
 
-**Deposit**: Allows the user to deposit money into the account.
+2.**Deposit**: Allows the user to deposit money into the account.
 
-**Withdraw**: Allows the user to withdraw money from the account.
+3.**Withdraw**: Allows the user to withdraw money from the account.
 
-**Exit**: Exits the program.
+4.**Exit**: Exits the program.
 
 ## Features
 
